@@ -58,7 +58,7 @@ function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>www.myntra.com. All rights reserved.</p>
+        <p>www.myntra.com. ©All rights reserved.</p>
       </div>
     </footer>
   );
